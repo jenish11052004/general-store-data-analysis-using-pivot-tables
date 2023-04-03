@@ -23,4 +23,4 @@ Pie chart for expense breakup
 Main expenditure item Target vs achieved
 Create chats of other metrics you feel are important.
 
-[Financial_Dashboard](Financial_Dashboard.xlsx)
+[Financial Dashboard](Financial Dashboard.xlsx)
