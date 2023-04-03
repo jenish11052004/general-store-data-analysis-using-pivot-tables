@@ -1,4 +1,4 @@
-# general-store-data-analysis-using-pivot-tables and  Draw the chart for Profit and Loss statement of a company 
+# general-store-data-analysis-using-pivot-tables and  Make the charts for Analyse Profit and Loss statement of a company 
 
 ## Problem Statement 1 
 As a data analysis intern, you are provided with a general store transaction dataset. You are supposed to do the following operations.
