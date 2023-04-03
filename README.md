@@ -1,6 +1,6 @@
-# general-store-data-analysis-using-pivot-tables and  Make the charts for Analyse Profit and Loss statement of a company 
+## general-store-data-analysis-using-pivot-tables and  Make the charts for Analyse Profit and Loss statement of a company 
 
-## Problem Statement 1 
+#### Problem Statement 1 
 As a data analysis intern, you are provided with a general store transaction dataset. You are supposed to do the following operations.
 
 Draw a Pivot table to get the different types of outlets and their counts
@@ -13,7 +13,7 @@ Add slicers for item fat and item type in the last Pivot table
 
 
 
-## Problem Statement 2
+#### Problem Statement 2
 
 As a data analysis intern, you are provided with the Profit and Loss statement of a company for the year 2020.
 
